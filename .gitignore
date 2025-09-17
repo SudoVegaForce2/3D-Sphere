@@ -1,0 +1,12 @@
+# CodeBlocks specific files
+*.depend
+*.layout
+bin/
+obj/
+
+# Build artifacts
+*.o
+*.exe
+
+# IDE settings
+.vscode/
